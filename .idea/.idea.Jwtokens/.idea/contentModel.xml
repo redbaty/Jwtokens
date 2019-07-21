@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\marcos_cordeiro\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\marcos_cordeiro\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Jwtokens.1795562228.00" t="ExcludeRecursive" />
+    <e p="C:\Users\marcos_cordeiro\source\repos\Jwtokens" t="IncludeFlat">
+      <e p="Jwtokens" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DeserializationResult.cs" t="Include" />
+        <e p="Jwtokens.csproj" t="IncludeRecursive" />
+        <e p="JwtokensOptions.cs" t="Include" />
+        <e p="JwtokensSettings.cs" t="Include" />
+        <e p="JwtService.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="Jwtokens.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ServiceCollectionExtensions.cs" t="Include" />
+      </e>
+      <e p="Jwtokens.sln" t="IncludeFlat" />
+      <e p="Jwtokens.Test" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="TokensController.cs" t="Include" />
+        </e>
+        <e p="Jwtokens.Test.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Jwtokens.Test.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

@@ -3,6 +3,9 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <Authors>Marcos Cordeiro</Authors>
+    <PackageVersion>1.0.0</PackageVersion>
+    <PackageProjectUrl>https://github.com/redbaty/Jwtokens</PackageProjectUrl>
+    <PackageId>JwtOkens</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
